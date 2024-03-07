@@ -84,3 +84,11 @@ body {
 .grid--center-v {
   align-items: center;
 }
+
+strong {
+  font-weight: 500;
+}
+
+.center-text {
+  text-align: center;
+}
